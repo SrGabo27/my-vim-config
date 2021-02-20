@@ -22,6 +22,7 @@ Plug 'mg979/vim-visual-multi', {'branch': 'master'}
 
 "--- Indicator bar
 Plug 'itchyny/lightline.vim'
+" To show the current branch,  use this plugin: https://github.com/tpope/vim-fugitive
 
 "--- Highlight
 Plug 'maxmellon/vim-jsx-pretty'

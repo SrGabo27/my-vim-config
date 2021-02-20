@@ -19,6 +19,7 @@ syntax enable
 "--- Rename vim as vi
 " create a symlink: cd /usr/bin/ then -->  sudo ln -s vim v
 
+"<<<<<<<<<<<<<<<<<<<<<<<<<<< Imports configs >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 so ~/.vim/configs/maps.vim
 so ~/.vim/configs/pulgins.vim
 so ~/.vim/configs/plugins-config.vim
