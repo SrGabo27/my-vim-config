@@ -21,7 +21,7 @@ syntax enable
 
 "<<<<<<<<<<<<<<<<<<<<<<<<<<< Imports configs >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 so ~/.vim/configs/maps.vim
-so ~/.vim/configs/pulgins.vim
+so ~/.vim/configs/plugins.vim
 so ~/.vim/configs/plugins-config.vim
 "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Color scheme >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
@@ -30,16 +30,16 @@ set background=dark
 set termguicolors
 
 "-- for tokio thme
-" let g:tokyonight_style = 'night' 
-" let g:tokyonight_enable_italic = 1
-" let g:tokyonight_transparent_background = 1 
+ "let g:tokyonight_style = 'night' 
+ "let g:tokyonight_enable_italic = 1
+ "let g:tokyonight_transparent_background = 1 
 
 "-- for gruvbox-material
 let g:gruvbox_material_palette = 'original'
 let g:gruvbox_material_background = 'hard'
 
 "-- set theme
-colorscheme gruvbox-material
+colorscheme gruvbox-material 
 
 "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 

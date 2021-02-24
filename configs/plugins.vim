@@ -25,8 +25,10 @@ Plug 'itchyny/lightline.vim'
 " To show the current branch,  use this plugin: https://github.com/tpope/vim-fugitive
 
 "--- Highlight
+Plug 'leafgarland/typescript-vim' 
 Plug 'maxmellon/vim-jsx-pretty'
 Plug 'yuezk/vim-js'
+Plug 'vim-python/python-syntax'
 
 "--- Formatting
 Plug 'prettier/vim-prettier', {

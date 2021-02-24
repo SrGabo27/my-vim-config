@@ -1,7 +1,7 @@
 "<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< Shortcuts >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>"
 
 let mapleader=" "
-let g:user_emmet_leader_key=',' " Emmet (if i set leader key as 'c' then, to activate is 'c,' )
+let g:user_emmet_leader_key='.,' " Emmet (if i set leader key as '.' then, to activate is '.,' )
 let NERDTreeQuitOnOpen=1
 
 nmap <Leader>m <Plug>(easymotion-s2)
