@@ -11,6 +11,7 @@ Plug 'ghifarit53/tokyonight-vim'
 Plug 'easymotion/vim-easymotion'
 Plug 'scrooloose/nerdtree'
 Plug 'christoomey/vim-tmux-navigator'
+Plug 'ryanoasis/vim-devicons'
 " To rename files, remove or any, use this pulgin: https://github.com/tpope/vim-eunuch
 
 "--- Intelligence

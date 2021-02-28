@@ -30,13 +30,14 @@ set background=dark
 set termguicolors
 
 "-- for tokio thme
- "let g:tokyonight_style = 'night' 
- "let g:tokyonight_enable_italic = 1
- "let g:tokyonight_transparent_background = 1 
+"let g:tokyonight_style = 'night' 
+"let g:tokyonight_enable_italic = 1
+"let g:tokyonight_transparent_background = 1 
 
 "-- for gruvbox-material
 let g:gruvbox_material_palette = 'original'
 let g:gruvbox_material_background = 'hard'
+let g:gruvbox_material_transparent_background=1
 
 "-- set theme
 colorscheme gruvbox-material 
